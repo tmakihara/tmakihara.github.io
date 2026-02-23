@@ -8,7 +8,7 @@ subtitle: Making a chatbot that helps with fab
 comments: true
 mathjax: true
 author: Takuma Makihara
-published: True
+published: False
 ---
 
 # Background: LINQS Hackweek
